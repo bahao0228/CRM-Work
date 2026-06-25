@@ -97,6 +97,18 @@ Nhiệm vụ thực hiện:
 
 Repository này được xây dựng nhằm lưu trữ và giới thiệu bộ quy trình phát triển phần mềm cho CRM Works, đồng thời thể hiện năng lực phân tích quy trình, xây dựng SOP, tài liệu hóa quy trình và hỗ trợ cải tiến chất lượng trong môi trường phát triển phần mềm.
 
+## Documentation
+
+Do dung lượng tài liệu lớn, toàn bộ hồ sơ dự án được lưu trữ trên Google Drive. Tài liệu bao gồm:
+
+• Quy trình thao tác chuẩn (SOP)
+• Sơ đồ quy trình BPMN
+• Biểu mẫu và Template hỗ trợ
+• Tài liệu quản lý dự án
+• Hồ sơ cải tiến quy trình
+
+👉 https://drive.google.com/drive/folders/1_g9foQFrweiX8Lwkouc8I80-gdRC01HO?usp=drive_link
+
 # 📩 Liên hệ
 **Phạm Huy Hảo – Quality Assurance**  
 📧 Email: **phamhuyhao20040605@gmail.com**  
