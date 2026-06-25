@@ -98,7 +98,7 @@ Nhiệm vụ thực hiện:
 Repository này được xây dựng nhằm lưu trữ và giới thiệu bộ quy trình phát triển phần mềm cho CRM Works, đồng thời thể hiện năng lực phân tích quy trình, xây dựng SOP, tài liệu hóa quy trình và hỗ trợ cải tiến chất lượng trong môi trường phát triển phần mềm.
 
 # 📩 Liên hệ
-**Phạm Huy Hảo – Quality Assurancet**  
+**Phạm Huy Hảo – Quality Assurance**  
 📧 Email: **phamhuyhao20040605@gmail.com**  
 📞 Điện thoại: **0326 040 228**  
 📍 Địa chỉ: **Hà Nội, Việt Nam**
